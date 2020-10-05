@@ -12,3 +12,8 @@
   name = "About"
   url = "about/"
   weight = 20
+  
+[[main]]
+  name = "topic"
+  url = "about/"
+  weight = 30  
