@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Academic
+title: How to learn English language
 date: 2019-07-12
 math: true
 diagram: true
