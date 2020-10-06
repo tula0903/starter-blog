@@ -8,7 +8,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+English is not tough if you follow my procedure this article is guide how start your English.
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
